@@ -4,7 +4,7 @@ AI assisted, therapist grounded app for support between sessions.
 # DEFENSIVE PUBLICATION
 ## Therapist-Customizable AI System for Between-Session Mental Health Support
 
-**Publication Date:** [To be assigned by IP.com]  
+**Publication Date:** 3 November 2025  
 **Technical Field:** Healthcare Information Technology; Mental Health Software; Artificial Intelligence  
 **Inventor:** Skye Tyler  
 **Publication Type:** Defensive Publication to Establish Prior Art
@@ -608,8 +608,8 @@ By publishing this disclosure, I:
 
 **Inventor Name:** Skye Tyler  
 **Address:** 479 N Country Club Road, Brevard, NC 28712  
-**Date:** [Publication Date]  
-**Signature:** _____________________________
+**Date:** 3 November 2025
+**Signature:** Skye Tyler
 
 ---
 
@@ -628,14 +628,6 @@ By publishing this disclosure, I:
 **Publication Version:** 2.0 (Strategic)  
 **Document Length:** ~7,500 words  
 **Total Pages:** 18 pages
-
----
-
-## END OF DEFENSIVE PUBLICATION
-
-This document is submitted for publication to the IP.com Prior Art Database to establish a time-stamped, searchable, and citable public disclosure of the described innovations.
-
-The level of detail provided herein is sufficient to enable someone skilled in the field to understand and implement the disclosed concepts while preserving competitive advantages in specific implementation details, vendor relationships, and proprietary technical approaches.
 
 **Certification:** I certify that the information contained in this defensive publication is accurate and complete to the best of my knowledge as of the publication date.
 
